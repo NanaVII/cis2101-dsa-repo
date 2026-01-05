@@ -1,4 +1,4 @@
-/* CURSOR BASED */
+// CURSOR BASED
 #include <stdio.h>
 #define MAX 4
 
